@@ -6,10 +6,10 @@
 }
 
 body {
-font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   line-height: 1.5;
-  color: #071629;
-  background-color: #fff;
+
+}
 
 a {
   color: inherit;
@@ -23,7 +23,6 @@ img {
 
 header {
   padding: 20px 60px;
-  background: transparent;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -53,17 +52,14 @@ nav ul li a {
   font-weight: 600;
   font-size: 14px;
   letter-spacing: 1px;
-  transition: color 0.3s;
 }
 
-nav ul li a:hover {
-  color: #c271ff;
-}
 
 main>section:first-of-type {
-  background: url('./images/background.JPG') no-repeat center/cover;
+  background: url('./images/CSS\ Advanced/object.png') no-repeat center/cover;
   text-align: center;
   padding: 160px 20px 80px;
+  margin-bottom: 150px;
 }
 
 main h1 {
@@ -73,11 +69,15 @@ main h1 {
 }
 
 main span {
-  font-size: 16px;
+  font-size: 1.2rem;
   margin: 0 8px;
   font-weight: 600;
   color: #fff;
-  opacity: 0.7;
+
+}
+
+.highlight {
+    font-size: 32px;
 }
 
 button {
@@ -276,7 +276,7 @@ footer {
 }
 
 .hero {
-  background: url("https://i.ibb.co/6BztsDL/header-bg.jpg") no-repeat center center;
+  background: url(images/CSS\ Advanced/object.png) no-repeat center center;
   background-size: cover;
   height: 100vh;
   text-align: center;
@@ -311,9 +311,7 @@ footer {
   font-weight: bold;
   font-size: 14px;
   cursor: pointer;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-  transition: background 0.3s;
-}
+
 
 .hero-content button:hover {
   background-color: #a956f5;
