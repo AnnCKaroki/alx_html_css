@@ -11,4 +11,4 @@ This project concludes the css module of the frontend development program
 ## Project Details
 The project involves styling a school website's homepage. Here is the final look:
 
-<img alt="css-project-template-alx" src="" width="300" height="750"  />
+<img alt="css-project-template-alx" src="./images/CSS Advanced/School Page@2x.png"  />

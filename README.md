@@ -1,10 +1,14 @@
-# Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+# ALX CSS Project
+This project concludes the css module of the frontend development program
 
-- What is CSS
-- How to add style to an element
-- What is a class
-- What is a selector
-- How to compute CSS Specificity Value
-- What are Box properties in CSS
-- How does the browser load a webpage
+
+## Tools Used
+- HTML5
+- CSS3
+- FIGMA
+
+
+## Project Details
+The project involves styling a school website's homepage. Here is the final look:
+
+<img alt="css-project-template-alx" src="./images/CSS Advanced/School Page@2x.png"  />
