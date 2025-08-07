@@ -9,6 +9,9 @@ This is a web page built from scratch after finishing the HTML & CSS block of th
 Live URL:
 ## My Process
 ### Built with
+HTML5
+CSS3
+Figma
 ### What I learnt
 ### Continued Development
 ### Useful Resources
