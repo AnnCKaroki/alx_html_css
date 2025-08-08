@@ -186,13 +186,43 @@ h1 {
 
 .icon-container {
     display: flex;
+    gap: 20px;
     margin: 40px;
 }
 
-.icon {
-    text-align: center;
-    padding: 4px;
+.icon span {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  font-size: 61px;
 }
+
+.icon-text {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 30px;
+}
+
+
+
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  padding: 20px;
+
+}
+.about-content {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  max-width: 800px;
+  text-align: center;
+}
+
 
 .results-container {
     background-image: url(images/headphones_hero_2.jpg);
