@@ -279,6 +279,7 @@ h1 {
   height: 190px;
   background-color: #FF6565;
   clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+}
 
 .pentagon-text {
     text-align: center;
